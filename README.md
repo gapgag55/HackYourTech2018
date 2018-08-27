@@ -9,5 +9,10 @@ We have met 3 projects
 
 # Installation
 1. Download the repo
-2. Enter to each directory 
+```git clone https://github.com/gapgag55/HackYourTech2018.git```
+
+2. Enter to each directory
+```cd ./folder```
+ 
 3. run "yarn" command
+```yarn install```
