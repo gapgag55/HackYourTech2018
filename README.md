@@ -5,3 +5,9 @@ We have met 3 projects
 1. Bank Creator - for employee of bank to generate new users
 2. Seller (K-Store) - for normal people to do business (In this case implement only sell/buy transaction)
 3. UserEldery (K-Wallet) - Simple wallet for eldery
+
+
+# Installation
+1. Download the repo
+2. Enter to each directory 
+3. run "yarn" command
