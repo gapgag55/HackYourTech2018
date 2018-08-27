@@ -8,11 +8,13 @@ We have met 3 projects
 
 
 # Installation
-1. Download the repo
+1. Download React-Native
+
+2. Download the repo
 ```git clone https://github.com/gapgag55/HackYourTech2018.git```
 
-2. Enter to each directory
+3. Enter to each directory
 ```cd ./folder```
  
-3. run "yarn" command
+4. run "yarn" command
 ```yarn install```
